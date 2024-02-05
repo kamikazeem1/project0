@@ -1,6 +1,6 @@
 /*
  * Draw.java
- * 
+ * @author Michael O'Neill
  * Allows users to draw lines on a graphical surface
  */
 

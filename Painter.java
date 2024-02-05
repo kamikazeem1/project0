@@ -1,8 +1,10 @@
 /*
  * Painter.java
- * 
+ * @author Michael O'Neill
  * Driver, creates and shows GUI
  */
+
+ // comment
 
 //Imports
 import java.awt.BorderLayout;
