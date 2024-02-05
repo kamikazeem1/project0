@@ -10,5 +10,5 @@ Last Updated: February 5, 2024
 ## CS2400 Project 0 Information
 1. Michael O'Neill
 2. https://github.com/kamikazeem1/project0
-3. todo enter here
-4. Screencast, VS Code
+3. todo
+4. todo
