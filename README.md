@@ -1,14 +1,14 @@
-#Painter!
+# Painter!
 A whiteboard GUI application that allows users to draw in 5 colors, clear to reset drawings, and save drawings as PDFs.
 
-##Functionality
+## Functionality
 + 'Save' button is not currently implemented.
 
-##Project Status
+## Project Status
 Last Updated: February 5, 2024
 
-##CS2400 Project 0 Information
+## CS2400 Project 0 Information
 1. Michael O'Neill
 2. https://github.com/kamikazeem1/project0
-3. todo
+3. todo enter here
 4. Screencast, VS Code
